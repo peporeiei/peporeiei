@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning react.js , c#
-- 📫 How to reach me: <div style="float: left;"><img src="![image](https://user-images.githubusercontent.com/56145972/173585202-8b48c4fa-3053-450d-9989-e39ba6a2b441.png)" width="128" height="128"/></div>
+- 📫 How to reach me: [<img alt="alt_text" width="40px" src="![image](https://user-images.githubusercontent.com/56145972/173585621-9afaa43c-5ea1-4625-9c73-6803b02d3b6c.png)" />](https://www.facebook.com/Pakpoomfungprasertsuk/)
 
 <!--
 **peporeiei/peporeiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
