@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning react.js , c#
+- 📫 How to reach me: <div style="float: left;"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="128" height="128"/></div>
 <!--
 **peporeiei/peporeiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
