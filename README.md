@@ -1,8 +1,8 @@
 ### Hi there 👋
 - My name is Phakphum Fangpraseotsuk.
-- My nickname Por.I'm 23 year old
+- My nickname Por.I'm 24 year old
 - I'm graduated from Computer engineering RMUTSV(Rajamangala University of Technology Srivijaya)
-- 🌱 I’m currently learning react.js , c#
+- 🌱 I’m currently learning react.ts , c#
 - 📫 How to reach me: [<img width="40px" src="https://user-images.githubusercontent.com/56145972/173585621-9afaa43c-5ea1-4625-9c73-6803b02d3b6c.png"/>](https://www.facebook.com/Pakpoomfungprasertsuk/)
 
 <!--
